@@ -1,7 +1,8 @@
 {
   "posts": [
     {
-    name: 'category-1', value: 100 
+  "id": 1,
+  "value": 200
     }
   ]
 }
