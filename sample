@@ -1,0 +1,10 @@
+[
+        { name: 'category-1', value: 100 },
+        { name: 'category-2', value: 500 },
+        { name: 'category-3', value: 127 },
+        { name: 'category-4', value: 400 },
+        { name: 'category-5', value: 365 },
+        { name: 'category-6', value: 300 },
+        { name: 'category-7', value: 150 },
+        { name: 'category-8', value: 102 },
+      ]
