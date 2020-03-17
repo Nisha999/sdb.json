@@ -4,7 +4,28 @@
 "id": 1,  
 "name": "category-1",
 "value":200
-}
+},
+{ "id": 2, 
+"name": "category-2",
+"value": 500 },
+{"id": 3, 
+"name": "category-3",
+"value": 127 },
+{"id": 4, 
+"name": "category-4",
+"value": 400 },
+{ "id": 5, 
+"name": "category-5",
+"value": 365 },
+{ "id": 6, 
+"name": "category-6",
+"value": 300 },
+{ "id": 7, 
+"name" :"category-7",
+"value": 150 },
+{"id": 8, 
+"name": "category-8",
+"value": 102 }
 
 ]
 }
