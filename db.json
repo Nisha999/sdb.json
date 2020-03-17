@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+    name: 'category-1', value: 100 
     }
   ]
 }
+ 
