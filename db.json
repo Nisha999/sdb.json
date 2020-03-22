@@ -1,7 +1,7 @@
-[{"id":1,"firstName":"Nisha","preferredStyle":"Kathak","age":23,"gender":"Female","lastName":"S","email":"nishasrinivas19@gmail.com"},
- {"id":2,"firstName":"pooja","preferredStyle":"Kathakali","age":35,"gender":"Female","lastName":"rao","email":"pooja@gmail.com"},
- {"id":3,"firstName":"kavya","preferredStyle":"Kuchipudi","age":45,"gender":"Female","lastName":"JP","email":"kavya@gmail.com"},
- {"id":4,"firstName":"Rahul","preferredStyle":"Odissi","age":50,"gender":"Male","lastName":"L","email":"Rahul@gmail.com"},
- {"id":5,"firstName":"Surya","preferredStyle":"Sattriyay","age":33,"gender":"Male","lastName":"khasyap","email":"Surya@gmail.com"},
- {"id":6,"firstName":"Ramya","preferredStyle":"Manipuri","age":18,"gender":"Female","lastName":"k","email":"Ramya@gmail.com"},
- {"id":7,"firstName":"Koel","preferredStyle":"Mohiniyattam","age":70,"gender":"Female","lastName":"D","email":"Koel@gmail.com"}]
+[{"id":1,"firstName":"Nisha","preferredStyle":"Kathak","age":23,"gender":"Female","lastName":"S"},
+ {"id":2,"firstName":"pooja","preferredStyle":"Kathakali","age":35,"gender":"Female","lastName":"rao"},
+ {"id":3,"firstName":"kavya","preferredStyle":"Kuchipudi","age":45,"gender":"Female","lastName":"JP"},
+ {"id":4,"firstName":"Rahul","preferredStyle":"Odissi","age":50,"gender":"Male","lastName":"L"},
+ {"id":5,"firstName":"Surya","preferredStyle":"Sattriyay","age":33,"gender":"Male","lastName":"khasyap"},
+ {"id":6,"firstName":"Ramya","preferredStyle":"Manipuri","age":18,"gender":"Female","lastName":"k"},
+ {"id":7,"firstName":"Koel","preferredStyle":"Mohiniyattam","age":70,"gender":"Female","lastName":"D"}]
