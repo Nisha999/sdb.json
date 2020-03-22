@@ -1,7 +1,9 @@
-[{"id":1,"firstName":"Nisha","preferredStyle":"Kathak","age":23},
+{
+"posts":[{"id":1,"firstName":"Nisha","preferredStyle":"Kathak","age":23},
  {"id":2,"firstName":"pooja","preferredStyle":"Kathakali","age":35},
  {"id":3,"firstName":"kavya","preferredStyle":"Kuchipudi","age":45},
  {"id":4,"firstName":"Rahul","preferredStyle":"Odissi","age":50},
  {"id":5,"firstName":"Surya","preferredStyle":"Sattriyay","age":33},
  {"id":6,"firstName":"Ramya","preferredStyle":"Manipuri","age":18},
  {"id":7,"firstName":"Koel","preferredStyle":"Mohiniyattam","age":70}]
+}
